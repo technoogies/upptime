@@ -43,7 +43,7 @@ No server required — just GitHub Actions, Issues, Pages, and Open Source. [**G
 
   css: "body {
       opacity: 0.25;
-      background-color: rgba(12, 99, 71, 0.2);
+      background-color: rgba(17, 255, 100, 0.1);
     }"
   
 # Upptime also supports notifications, assigning issues, and more
