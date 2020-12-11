@@ -10,16 +10,21 @@ sites:
   - name: Technoogies
     url: https://technoogies.com
     maxResponseTime: 15000 #5000 = 5 sec.
-    icon: https://technoogies.com/ # Or favicon
+    icon: https://technoogies.com/wp-content/uploads/2019/06/technoogies_Logo_Solid.png # Or favicon
+  - name: Swet Inc
+    url: https://www.swetinc.com
+    icon: https://www.swetinc.com/wp-content/uploads/design-assets/Swet_Logo_32x33_Rev.2a.png
   - name: It's For Africa!
     url: https://itsforafrica.org
     icon: https://itsforafrica.org/wp-content/uploads/design-components/icons/ifa-logo-no-bkgnd-no-fill-rev1d_50px.png
   - name: ComeOnAndFeedMe
     url: https://comeonandfeedme.com
+    icon: https://comeonandfeedme.com/wp-content/uploads/assets/logo/coafm-logo-rev2c-5.png
   - name: Oy 2 Us
     url: https://oy2.us
   - name: TruMemes
     url: https://trumemes.com
+    icon: https://trumemes.com/wp-content/uploads/branding/logo-media/tm-logo_social_rev1b50px.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
