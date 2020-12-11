@@ -42,8 +42,7 @@ No server required — just GitHub Actions, Issues, Pages, and Open Source. [**G
       href: https://github.com/$OWNER/$REPO
 
   css: "body {
-      opacity: 0.25;
-      background-color: rgba(17, 255, 100, 0.1);
+      background-image: linear-gradient(to bottom right, rgba(20, 255, 100, 0.1), rgba(20, 100, 255, 0.1);
     }"
   
 # Upptime also supports notifications, assigning issues, and more
