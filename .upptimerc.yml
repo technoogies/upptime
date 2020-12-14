@@ -23,6 +23,11 @@ sites:
   - name: Tru Themes
     url: https://truthemes.com
     icon: https://trumemes.com/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 503
   - name: Oy 2 Us
     url: https://oy2.us
   - name: Tru Memes
