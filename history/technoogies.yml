@@ -1,7 +1,7 @@
 url: https://technoogies.com  
-status: up
+status: degraded
 code: 200
-responseTime: 3006
-lastUpdated: 2020-12-15T23:02:56.206Z
+responseTime: 26527
+lastUpdated: 2020-12-16T05:31:16.516Z
 startTime: Fri Dec 11 2020 00:58:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
