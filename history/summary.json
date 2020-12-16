@@ -23,18 +23,17 @@
     "icon": "https://technoogies.com/wp-content/uploads/2019/06/technoogies_Logo_Solid.png",
     "slug": "technoogies",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 4346,
-    "timeDay": 8898,
+    "timeDay": 10941,
     "timeWeek": 4346,
     "timeMonth": 4346,
     "timeYear": 4346,
     "dailyMinutesDown": {
-      "2020-12-16": 12,
       "2020-12-15": 18
     }
   },
@@ -61,9 +60,9 @@
     "url": "https://itsforafrica.org",
     "icon": "https://itsforafrica.org/wp-content/uploads/design-components/icons/ifa-logo-no-bkgnd-no-fill-rev1d_50px.png",
     "slug": "it-s-for-africa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +71,9 @@
     "timeWeek": 321,
     "timeMonth": 321,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-16": 0
+    }
   },
   {
     "name": "ComeOnAndFeedMe",
