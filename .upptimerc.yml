@@ -22,14 +22,20 @@ sites:
     icon: https://comeonandfeedme.com/wp-content/uploads/assets/logo/coafm-logo-rev2c-5.png
   - name: Tru Themes
     url: https://truthemes.com
-    icon: https://trumemes.com/
+    icon: https://truthemes.com/
     expectedStatusCodes:
       - 200
       - 201
       - 404
       - 503
   - name: Oy 2 Us
-    url: https://oy2.us
+    url: https://oy2.us/admin/
+    icon: https://oy2.us/frontend/assets/img/Oy2Us_50px.png
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 503
   - name: Tru Memes
     url: https://trumemes.com
     icon: https://trumemes.com/wp-content/uploads/branding/logo-media/tm-logo_social_rev1b50px.png
