@@ -44,19 +44,19 @@
     "url": "https://www.swetinc.com",
     "icon": "https://www.swetinc.com/wp-content/uploads/design-assets/Swet_Logo_32x33_Rev.2a.png",
     "slug": "swet-inc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2231,
-    "timeDay": 2150,
-    "timeWeek": 1599,
-    "timeMonth": 2231,
-    "timeYear": 2231,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 3422,
+    "timeDay": 14696,
+    "timeWeek": 4448,
+    "timeMonth": 3422,
+    "timeYear": 3422,
     "dailyMinutesDown": {
-      "2020-12-27": 0
+      "2020-12-27": 22
     }
   },
   {
