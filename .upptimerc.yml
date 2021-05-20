@@ -11,9 +11,13 @@ sites:
     url: https://technoogies.com
     maxResponseTime: 15000 #5000 = 5 sec.
     icon: https://technoogies.com/wp-content/uploads/2019/06/technoogies_Logo_Solid.png # Or favicon
+
   - name: Swet Inc
-    url: https://www.swetinc.com
+    url: https://www.swetinc.com/
     icon: https://www.swetinc.com/wp-content/uploads/design-assets/Swet_Logo_32x33_Rev.2a.png
+    expectedStatusCodes:
+      - 200
+
   - name: It's For Africa!
     url: https://itsforafrica.org
     icon: https://itsforafrica.org/wp-content/uploads/design-components/icons/ifa-logo-no-bkgnd-no-fill-rev1d_50px.png
