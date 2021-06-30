@@ -166,18 +166,18 @@
     "icon": "https://truthemes.com/",
     "slug": "tru-themes",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.77%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "99.77%",
     "time": 2504,
     "timeDay": 1442,
     "timeWeek": 1015,
     "timeMonth": 1888,
     "timeYear": 2504,
     "dailyMinutesDown": {
-      "2021-06-30": 18,
+      "2021-06-30": 45,
       "2021-06-02": 594,
       "2021-03-07": 28
     }
@@ -187,9 +187,9 @@
     "url": "https://oy2.us/admin/",
     "icon": "https://oy2.us/frontend/assets/img/Oy2Us_50px.png",
     "slug": "oy-2-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
@@ -199,6 +199,7 @@
     "timeMonth": 216,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2021-06-30": 0,
       "2021-03-07": 28,
       "2020-12-24": 877
     }
