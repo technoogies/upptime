@@ -4,19 +4,19 @@
     "url": "https://google.com",
     "icon": "https://favicons.githubusercontent.com/google.com",
     "slug": "test-control-goog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 389,
-    "timeWeek": 209,
-    "timeMonth": 163,
+    "timeDay": 298,
+    "timeWeek": 200,
+    "timeMonth": 162,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2021-07-31": 0
+      "2021-07-31": 6
     }
   },
   {
@@ -50,7 +50,7 @@
     "slug": "swet-inc",
     "status": "up",
     "uptime": "87.79%",
-    "uptimeDay": "87.18%",
+    "uptimeDay": "87.57%",
     "uptimeWeek": "91.34%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "87.79%",
